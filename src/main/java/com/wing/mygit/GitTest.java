@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("wing2");
         System.out.println("master2");
         System.out.println("pull test");
+        System.out.println("pull push");
     }
 }
